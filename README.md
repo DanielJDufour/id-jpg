@@ -1,17 +1,17 @@
-# is-jpeg
+# id-jpg
 Identify a JPEG File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array
 
 # install
 ```bash
-npm install is-jpeg
+npm install id-jpg
 ```
 
 # usage
 ```javascript
-const isJPEG = require("is-jpeg");
+const idJPG = require("id-jpg");
 
-isJPEG(buffer); // true
-isJPEG(arrayBuffer); // true
-isJPEG(dataView); // true
-isJPEG(uint8Array); // true
+idJPG(buffer); // true
+idJPG(arrayBuffer); // true
+idJPG(dataView); // true
+idJPG(uint8Array); // true
 ```

@@ -1,17 +1,17 @@
 {
-  "name": "is-jpeg",
+  "name": "id-jpg",
   "version": "0.0.0",
   "description": "Identify a JPEG File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
-  "main": "is-jpeg.js",
+  "main": "id-jpg.js",
   "files": [
-    "is-jpeg.js"
+    "id-jpg.js"
   ],
   "scripts": {
     "test": "ava --verbose"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielJDufour/is-jpeg.git"
+    "url": "git+https://github.com/DanielJDufour/id-jpg.git"
   },
   "keywords": [
     "arraybuffer",
@@ -24,9 +24,9 @@
   "author": "Daniel J. Dufour",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/DanielJDufour/is-jpeg/issues"
+    "url": "https://github.com/DanielJDufour/id-jpg/issues"
   },
-  "homepage": "https://github.com/DanielJDufour/is-jpeg#readme",
+  "homepage": "https://github.com/DanielJDufour/id-jpg#readme",
   "dependencies": {
     "get-byte": "0.0.0"
   },
